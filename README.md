@@ -1,6 +1,6 @@
 # CO_state_vax_test
 
-The story was published on 9NEWS on 12/09/21: 
+The story was published on 9NEWS on 12/09/21: https://www.9news.com/article/news/investigations/colorado-state-employees-vaccination-status/73-1bdd3b8c-b4fc-43a2-a412-6ff5764a5f56
 
 A visualization of the data is published on Flourish: https://public.flourish.studio/visualisation/7870886/ 
 
